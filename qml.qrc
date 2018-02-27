@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Arrow.qml</file>
+        <file>AxesArrows.qml</file>
+        <file>DragController.qml</file>
+        <file>TranslationGizmo.qml</file>
+        <file>Orbits.qml</file>
+        <file>RotationGizmo.qml</file>
+    </qresource>
+</RCC>
